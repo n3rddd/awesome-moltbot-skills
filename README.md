@@ -94,6 +94,18 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 </a>
 
 
+### ☁️ Hosting & Deployment
+
+You can deploy OpenClaw on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
+
+<a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-openclaw-skills">
+<img src="https://cdn.voltagent.dev/awesome-repo/myclaw-banner.svg" alt="MyClaw"  />
+You can run these skills without managing a server — a full cloud-hosted OpenClaw instance with one-click setup, 24/7 uptime, and complete data ownership.
+</a>
+
+> **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+
+
 ### 🤖 Model Providers
 
 OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
@@ -109,18 +121,6 @@ openclaw onboard --auth-choice openai-api-key
 openclaw onboard --auth-choice openai-codex
 ```
 </details>
-
-
-### ☁️ Hosting & Deployment
-
-You can deploy OpenClaw on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
-
-<a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-openclaw-skills">
-<img src="https://cdn.voltagent.dev/awesome-repo/myclaw-img.png" alt="MyClaw"  />
-You can run these skills without managing a server — a full cloud-hosted OpenClaw instance with one-click setup, 24/7 uptime, and complete data ownership.
-</a>
-
-> **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
 
 
 <div align="center">
