@@ -206,7 +206,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
-| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
+| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (52) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
@@ -829,9 +829,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [camino-journey](https://clawskills.sh/skills/james-southendsolutions-camino-journey) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints.
 - [camino-real-estate](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate) - Evaluate any address for home buyers and renters.
 - [camino-route](https://clawskills.sh/skills/james-southendsolutions-camino-route) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.
+- [tongtu-china-travel](https://clawhub.ai/jesse-tzx/skills/tongtu-china-travel) - Multilingual travel guide for foreign tourists visiting China — flights, hotels, trains, attractions, visa, payment, and transport via FlyAI.
 - [traffic-standards-kb](https://clawhub.ai/solvex-top/traffic-standards-kb) - Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations.
 
-> **[View all 110 skills in Transportation →](categories/transportation.md)**
+> **[View all 111 skills in Transportation →](categories/transportation.md)**
 </details>
 
 <details>
